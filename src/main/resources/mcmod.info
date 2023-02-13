@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "meatballsauce",
+    "name": "MeatballSauce",
+    "description": "Mod patches for MeatballCraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": [
+      "ACGaming"
+    ],
+    "dependencies": [
+      "mixinbooter",
+      "astralsorcery",
+      "botania"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "package": "mod.acgaming.meatballsauce.mixin",
+  "refmap": "meatballsauce.refmap.json",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["astralsorcery.GameStageTweaksMixin", "astralsorcery.PerkLevelManagerMixin", "botania.SkyblockRenderEventsMixin"]
+}
